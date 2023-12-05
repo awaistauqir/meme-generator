@@ -7,12 +7,12 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-	apiKey: 'AIzaSyDlkdiYuBFOe2CrOr_q8uIserjnifeNA1w',
-	authDomain: 'meme-generator-cd5e6.firebaseapp.com',
-	projectId: 'meme-generator-cd5e6',
-	storageBucket: 'meme-generator-cd5e6.appspot.com',
-	messagingSenderId: '306109536088',
-	appId: '1:306109536088:web:040890b5c23d0f4f18772d',
+	apiKey: '',
+	authDomain: '',
+	projectId: '',
+	storageBucket: '',
+	messagingSenderId: '',
+	appId: '',
 };
 
 // Initialize Firebase
